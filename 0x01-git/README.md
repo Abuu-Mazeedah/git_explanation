@@ -1,2 +1,4 @@
-my second readme file
+#my second readme file
+
+we are progressing
 
